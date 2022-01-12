@@ -10,7 +10,8 @@ namespace Jauns
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sveiki no Lauras\n")
+            Console.WriteLine("Sveiki no Lauras\n");
+            Console.WriteLine("Sveiki no Lauras Skujas\n");
         }
     }
 }
